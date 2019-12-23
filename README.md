@@ -14,4 +14,4 @@ Useful setups for
 * Copy your `~/.aws/credentials`
 * Copy your `~/.ssh/github` and `~/.ssh/github.pub`
 
-test
+

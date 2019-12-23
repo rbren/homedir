@@ -13,3 +13,5 @@ Useful setups for
 * Run `source ~/.bashrc`
 * Copy your `~/.aws/credentials`
 * Copy your `~/.ssh/github` and `~/.ssh/github.pub`
+
+
